@@ -1,0 +1,14 @@
+/home/luis-caputo/Documentos/_developers/c#/Startter/bin/Debug/net8.0/Startter
+/home/luis-caputo/Documentos/_developers/c#/Startter/bin/Debug/net8.0/Startter.deps.json
+/home/luis-caputo/Documentos/_developers/c#/Startter/bin/Debug/net8.0/Startter.runtimeconfig.json
+/home/luis-caputo/Documentos/_developers/c#/Startter/bin/Debug/net8.0/Startter.dll
+/home/luis-caputo/Documentos/_developers/c#/Startter/bin/Debug/net8.0/Startter.pdb
+/home/luis-caputo/Documentos/_developers/c#/Startter/obj/Debug/net8.0/Startter.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis-caputo/Documentos/_developers/c#/Startter/obj/Debug/net8.0/Startter.AssemblyInfoInputs.cache
+/home/luis-caputo/Documentos/_developers/c#/Startter/obj/Debug/net8.0/Startter.AssemblyInfo.cs
+/home/luis-caputo/Documentos/_developers/c#/Startter/obj/Debug/net8.0/Startter.csproj.CoreCompileInputs.cache
+/home/luis-caputo/Documentos/_developers/c#/Startter/obj/Debug/net8.0/Startter.dll
+/home/luis-caputo/Documentos/_developers/c#/Startter/obj/Debug/net8.0/refint/Startter.dll
+/home/luis-caputo/Documentos/_developers/c#/Startter/obj/Debug/net8.0/Startter.pdb
+/home/luis-caputo/Documentos/_developers/c#/Startter/obj/Debug/net8.0/Startter.genruntimeconfig.cache
+/home/luis-caputo/Documentos/_developers/c#/Startter/obj/Debug/net8.0/ref/Startter.dll
